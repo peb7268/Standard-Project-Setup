@@ -1,0 +1,22 @@
+{
+    "name": "peb7268/standardphp",
+    "description": "Standard PHP Project Setup",
+    "require": {
+	    "phpunit/phpunit": "3.7.*"
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-0": { }
+    },
+    "authors": [
+        {
+            "name": "Paul Barrick",
+            "email": "paul.barrick@infosurv.com"
+        }
+    ],
+    "config": {
+        //"bin-dir": "bin/"
+    }
+}
